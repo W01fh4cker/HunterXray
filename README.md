@@ -1,0 +1,2 @@
+# HunterXray
+奇安信Hunter平台与Xray扫描器的联动，实现Xray批量扫描Hunter的查询结果，并导出html文件。
