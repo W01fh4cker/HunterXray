@@ -22,6 +22,7 @@
 | receivers | 接收人的QQ邮箱，例如`xxxxxxxx@qq.com` |  
 
 （本程序目前只支持QQ邮箱）  
-4.联系方式：  
+4.`xray`文件需自己下载，然后放入同一文件夹下。下载地址：[Xray](https://github.com/chaitin/xray)
+5.联系方式：  
 &emsp;:snowflake:mailto:sharecat2022@qq.com  
 &emsp;:sunny:https://github.com/W01fh4cker/HunterXray/issues
