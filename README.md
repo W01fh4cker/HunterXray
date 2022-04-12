@@ -1,5 +1,6 @@
 # <h1 align="center" >HunterXray</h1>  
-奇安信Hunter平台与Xray扫描器的联动，实现Xray批量扫描Hunter的查询结果，并导出html文件。
+<div align="center" >奇安信Hunter平台与Xray扫描器的联动，实现Xray批量扫描Hunter的查询结果，并导出html文件。</div>  
+
 ## :headphones:声明：
 
 1.本程序的`xray`批量扫描部分参考了`Cl0ud`师傅的文章：[Xray批量化自动扫描](https://www.cnblogs.com/Cl0ud/p/14001908.html)  
