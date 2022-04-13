@@ -1,6 +1,6 @@
 print("""
 @Author: W01f
-@repo: https://github.com/W01fh4cker/nucleic-acid-information-query
+@repo: https://github.com/W01fh4cker/HunterXray/
 @version: 1.0
 @time: 2022/4/12
 ___          ______          ___        ________         ____          _______
